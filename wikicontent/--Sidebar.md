@@ -4,18 +4,18 @@
 
 [Home](wiki)
 
-[Command Configuration Values](https://yamltobot.com/wiki/Command-Configuration-Values)
+[Command Configuration Values](wiki/Command-Configuration-Values)
 
 ### Discord
 
-[Getting Started](https://yamltobot.com/wiki/discord/Getting-Started)
+[Getting Started](wiki/discord/Getting-Started)
 
-[Creating a Bot User](https://yamltobot.com/wiki/discord/Creating-a-Bot-User)
+[Creating a Bot User](wiki/discord/Creating-a-Bot-User)
 
-[Guide to Embeds](https://yamltobot.com/wiki/discord/Guide-to-Embeds)
+[Guide to Embeds](wiki/discord/Guide-to-Embeds)
 
 ### Twitch
 
-[Getting Started](https://yamltobot.com/wiki/twitch/Getting-Started)
+[Getting Started](wiki/twitch/Getting-Started)
 
-[Creating a Bot User](https://yamltobot.com/wiki/twitch/Creating-a-Bot-User)
+[Creating a Bot User](wiki/twitch/Creating-a-Bot-User)

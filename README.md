@@ -14,6 +14,6 @@ a folder of the same name as the module (e.g. `wikicontent/discord`).
 
 ## Things to note
 
-- When referencing a wiki page, to my understanding, you must use the full URL, such as `https://yamltobot.com/wiki/...`
+- When referencing a wiki page, to my understanding, use a relative URL, e.g. `wiki/...`
 
-- When referencing an image on the wiki, use `wikicontent/--images/...`
+- When referencing an image on the wiki, use the full url, e.g. `https://wikicontent.yamltobot.com/wikicontent/--images/...`

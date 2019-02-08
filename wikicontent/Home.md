@@ -7,5 +7,5 @@ Here you can learn to configure and use YamlToBot.
 
 Each module of YamlToBot has a slightly different setup. So to begin, select your module
 
-- [Discord](https://yamltobot.com/wiki/discord/Getting-Started)
-- [Twitch](https://yamltobot.com/wiki/twitch/Getting-Started)
+- [Discord](wiki/discord/Getting-Started)
+- [Twitch](wiki/twitch/Getting-Started)
