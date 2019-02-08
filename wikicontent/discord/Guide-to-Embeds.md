@@ -43,7 +43,7 @@ These are the different configuration options when defining the author of an emb
 
 Navigate to the location of your main config file and open it with your preferred text editor (I will be using [Notepad++](https://notepad-plus-plus.org/)).
 
-![](wikicontent/_images/discord/Guide-to-Embeds-Embeds-1.png)
+![](wikicontent/^images/discord/Guide-to-Embeds-Embeds-1.png)
 
 ### Step 2
 
@@ -98,7 +98,7 @@ Set `enabled` to `"true"` and define the other elements with what you wish them 
 
 Run YamlToBot and make sure your embed works by running the `::embed` command in a server your bot has joined.
 
-![](wikicontent/_images/discord/Guide-to-Embeds-Embeds-5.png)
+![](wikicontent/^images/discord/Guide-to-Embeds-Embeds-5.png)
 
 ### Config
 
@@ -201,7 +201,7 @@ Save the file and test your field by running the `::embed` command in a server w
 
 Add a new item to the list under `fields` to add a new field. Repeat Steps 2-4 for however many fields you want.
 
-![](wikicontent/_images/discord/Guide-to-Embeds-Fields-4.png)
+![](wikicontent/^images/discord/Guide-to-Embeds-Fields-4.png)
 
 ### Config
 
