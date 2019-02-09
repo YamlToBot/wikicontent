@@ -1,1 +1,1 @@
-YamlToBot was originally developed by **[Justin Schaaf](https://www.justinschaaf.com)**
+YamlToBot was originally developed by **[Justin Schaaf](https://justinschaaf.com)**

@@ -8,13 +8,13 @@ To get started with YamlToBot, you must first create a bot user and have its tok
 
 The first step to setting up YamlToBot is to run it for the first time. I'd recommend putting it in its own folder in a convenient location. Then double click on the Jar file. A new folder called "YamlToBot" should have generated.
 
-![Run Initial Jar](https://wikicontent.yamltobot.com/wikicontent/--images/twitch/Getting-Started-1.png)
+![Run Initial Jar](https://content.yamltobot.com/wikicontent/--images/twitch/Getting-Started-1.png)
 
 ### Step 2
 
 Navigate to the newly generated YamlToBot folder and open config.yml with your favorite text editor. We will be using [Notepad++](https://notepad-plus-plus.org/).
 
-![Config File Location](https://wikicontent.yamltobot.com/wikicontent/discord/assets/Getting-Started-2.png)
+![Config File Location](https://content.yamltobot.com/wikicontent/discord/assets/Getting-Started-2.png)
 
 ### Step 3
 
@@ -22,19 +22,19 @@ This is one of the most important steps for configuring YamlToBot. If you do not
 
 On the navigation bar, go to Settings and select "Preferences". Select "Language" in the lefthand column and under "Tab Settings", enable "Replace by Spaces". Then, click the "Close" button under that.
 
-![Notepad++ Settings](https://wikicontent.yamltobot.com/wikicontent/discord/assets/Getting-Started-3.png)
+![Notepad++ Settings](https://content.yamltobot.com/wikicontent/discord/assets/Getting-Started-3.png)
 
 ### Step 4
 
 As the last line of the default config, you should notice that there is a string ```token: 123456789012345678```, a string ```id: 876543210987654321```, and a string ```secret: 135798642135798642```. You want to replace the value on the right side of the colon (123456789012345678) with your bot's token for the ```token``` section. Do the same for the other two mentioned sections with the corresponding value. Then save the file by hitting Ctrl+S on your keyboard.
 
-![Configure token, id, and secret](https://wikicontent.yamltobot.com/wikicontent/--images/twitch/Getting-Started-4.png)
+![Configure token, id, and secret](https://content.yamltobot.com/wikicontent/--images/twitch/Getting-Started-4.png)
 
 ### Step 5
 
 You should also notice a ```channels``` list. Replace ```Jusanov``` with your own Twitch channel.
 
-![Configure Channels](https://wikicontent.yamltobot.com/wikicontent/--images/twitch/Getting-Started-5.png)
+![Configure Channels](https://content.yamltobot.com/wikicontent/--images/twitch/Getting-Started-5.png)
 
 ### Step 6
 
