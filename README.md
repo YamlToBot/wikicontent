@@ -1,7 +1,7 @@
-# wikicontent
+# content.yamltobot.com
 
-In this repository, all of the wiki content for the [YamlToBot website](https://yamltobot.com)
-is stored. This includes images and pages. The reason the wiki content is stored here is to
+In this repository, all of the content for the [YamlToBot website](https://yamltobot.com)
+is stored. This includes images and wiki pages. The reason the wiki content is stored here is to
 prevent the website repo from having two copies of the wiki content, one in the `docs` folder
 and one in the development workspace. Having this as its separate repository also makes it easier
 for others to contribute to the wiki because it is in a central location.
@@ -16,4 +16,4 @@ a folder of the same name as the module (e.g. `wikicontent/discord`).
 
 - When referencing a wiki page or a page on the main YamlToBot website, use a relative URL, e.g. `wiki/...`
 
-- When referencing an image on the wiki, use the full url, e.g. `https://wikicontent.yamltobot.com/wikicontent/--images/...`
+- When referencing an image on the wiki, use the full url, e.g. `https://content.yamltobot.com/wikicontent/--images/...`
