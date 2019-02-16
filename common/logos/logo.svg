@@ -1,7 +1,10 @@
 <svg id="ba9d5205-eadf-4779-a9e7-db8aa0006e6f" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 400">
     <defs>
         <style>
-            @import url('https://fonts.googleapis.com/css?family=Roboto');
+            @font-face {
+                font-family: "Roboto";
+                src: url('https://fonts.googleapis.com/css?family=Roboto');
+            }
             .fb41d673-4913-4cc5-b9d0-9f984007a4f7 {
                 fill:#555;
             }
