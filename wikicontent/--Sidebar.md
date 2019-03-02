@@ -1,10 +1,12 @@
 # YamlToBot
 
-### General
-
 [Home](wiki)
 
-[Command Configuration Values](wiki/Command-Configuration-Values)
+### General
+
+[Command Configuration Values](wiki/general/Command-Configuration-Values)
+
+[Variables](wiki/general/Variables)
 
 ### Discord
 

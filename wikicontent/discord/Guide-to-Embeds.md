@@ -1,4 +1,3 @@
-**Please note! These features will only work for version 2.0.0 and above! Ensure that you are using the right version of YamlToBot for this to work!**
 
 Whenever you post a link in a Discord chatroom, you may see a small box with a description of the webpage and a thumbnail image. As of YamlToBot 2.0.0, basic support for Discord embeds has been added. For more information about embeds, see the [Javacord wiki](https://javacord.org/wiki/miscellaneous/embed-faq/).
 
